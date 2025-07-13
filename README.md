@@ -1,8 +1,40 @@
+# 📡 Recruitment App
+
+This project is a RESTful API built using **Node.js**, **Express**, and **MongoDB** to manage and display a list of jobs. It provides a clean and efficient backend interface for frontend applications to fetch, filter, and paginate candidate data.
+
+---
+
+## 🎯 Purpose
+
+The primary goal of this API is to support a **recruitment application** that displays a **grid of candidates** with essential details such as:
+
+- 👤 Candidate Name  
+- 📞 Phone Number  
+- 📧 Email Address  
+- 📍 Address  
+
+The API supports:
+
+- 🔍 Searching candidates by name, phone, or email  
+- ↕️ Sorting by any field (e.g., name, email)  
+- 📄 Pagination for efficient data loading  
+- 🧩 Structured JSON responses ready for frontend grids (like DataTables, Ant Design, Material UI)
+
+---
+
+
 ## 🔗 Live Demo & Access
 
 ### 🌐 [View Live Deployed Application](https://recruiterapp-test.vercel.app)
 
 You can try the live version of the application with the following demo credentials:
+
+
+### 📄 API Documentation
+Access the full REST API specification via Swagger:
+- **[API Docs](http://45.129.86.64:8000/api-docs)**
+
+---
 
 ---
 
