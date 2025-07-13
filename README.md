@@ -1,6 +1,6 @@
 ## 🔗 Live Demo & Access
 
-### 🌐 [Live Platform](https://recruiterapp-test.vercel.app)
+### 🌐 [View Live Deployed Application](https://recruiterapp-test.vercel.app)
 
 You can try the live version of the application with the following demo credentials:
 
