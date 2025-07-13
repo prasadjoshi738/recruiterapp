@@ -26,15 +26,26 @@ Access the full REST API specification via Swagger:
 
 ---
 
-## 🔗 Screenshot Files (Direct Links)
+## 📸 Screenshots
 
-- [1.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/1.png)
-- [2.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/2.png)
-- [3.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/3.png)
-- [4.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/4.png)
-- [5.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/5.png)
-- [6.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/6.png)
-- [7.png](https://github.com/prasadjoshi738/recruiterapp/blob/main/screenshots/7.png)
+### 🔹 1. Home Page  
+![1](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/1.png)
 
+### 🔹 2. Login Page  
+![2](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/2.png)
 
+### 🔹 3. Admin Dashboard  
+![3](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/3.png)
+
+### 🔹 4. Organization Job Post  
+![4](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/4.png)
+
+### 🔹 5. Candidate Job View  
+![5](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/5.png)
+
+### 🔹 6. Resume Upload  
+![6](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/6.png)
+
+### 🔹 7. Application Details  
+![7](https://github.com/prasadjoshi738/recruiterapp/raw/main/screenshots/7.png)
 
