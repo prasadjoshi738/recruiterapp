@@ -33,6 +33,7 @@ You can try the live version of the application with the following demo credenti
 ### 📄 API Documentation
 Access the full REST API specification via Swagger:
 - **[API Docs](http://45.129.86.64:8000/api-docs)**
+-Note: If the API documentation does not load, your device may be forcefully redirecting the request to https://. In that case, simply remove the "s" from https (i.e., use http:// instead).
 
 ---
 
