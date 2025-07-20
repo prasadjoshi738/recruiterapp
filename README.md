@@ -31,14 +31,6 @@ You can try the live version of the application with the following demo credenti
 
 
 
----
-
-### 🔐 Demo Access Credentials
-
-
-
----
-
 ## 📸 Screenshots
 
 ### 🔹 1. Login Page  
